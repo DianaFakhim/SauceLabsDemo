@@ -1,0 +1,8 @@
+This project created based on Page Object Model design pattern using Selenium Java test scripts following BDD framework Cucumber build with Maven.
+
+This project build using Maven and if you have maven installed it will download all neccessary jar files for and you can simply run it from command line using mvn clean test command . Also you can execute test cases from Runner class as Junit or as feature itself. Please note Login feature covers 8 scenarious . There's one scenario with valid login and another scenario with data set so it covers 3 more scenarious. Also , in configuration properties file you can change browser to Firefox and execute those tests using Gecko driver. 
+All necessery reports you can find under 'target' folder. But please note that to generate HTML reports you will need to run the tests from command line , otherwise if you run it from Runner class it will genearte simple cucumber reports for you . Target folder with HTML reports attached as example for you . you can find reports from my latest run in this folder under "overview-feature" it will open in Git in json format you'd have to export it to you're computer .
+Also,feautures with test scenarious you can find under src/test/resourses and all coding involved files in src/test/java.
+All test cases scenarious can find under TestCases folder in src/test/resources package. First 3 test cases(#001,#002,#003) i explained in details with steps , but rest of the test cases are just scenarious itself(for time optimization). This project executable for Mac platform . if you will you windown it shouldn't be any issue except you might want to change drivers extension to .exe 
+
+Let me know if you have any questions.
