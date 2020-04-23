@@ -1,0 +1,11 @@
+com/saucelabs/pages/HomePage.class
+com/saucelabs/utils/VerificationPointsData.class
+com/saucelabs/utils/Constans.class
+com/saucelabs/base/PageInitializer.class
+com/saucelabs/utils/CommonMethods.class
+com/saucelabs/steps/Hooks.class
+com/saucelabs/base/BaseClass.class
+com/saucelabs/pages/LoginPage.class
+com/saucelabs/steps/LoginSteps.class
+com/saucelabs/runners/Runner.class
+com/saucelabs/utils/FileReader.class
